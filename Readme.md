@@ -1,4 +1,4 @@
-# Morse code
+# Enumerable
 
 ## Getting Started
 
@@ -21,9 +21,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Morse code] <a name="about-project"></a>
+# 📖 [# enumerable] <a name="about-project"></a>
 
-**[Morse code]** is a program that decodes morse code to their corresponding character or words.
+**[enumerable]** In this project we practice how to use a module inside your class..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,8 +37,6 @@
 </details>
 
 ### Key Features <a name="key-features"></a>
-
-- **[Decode morse code into their corresponding character or words]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +53,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/touredri/morse-code.git
+  git clone https://github.com/touredri/enumerable.git
 
 ### Usage
 
@@ -64,12 +62,7 @@ To run the project, execute the following command:
 Run this code in terminal.
 
   IRB
-Run the methods.
-
-    decode_char(".-")
-    puts decode_word("-- -.--")
-    puts decode_message(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
-
+ruby enumerable.rb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +88,7 @@ Run the methods.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/touredri/morse_code/issues).
+Feel free to check the [issues page](https://github.com/touredri/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
